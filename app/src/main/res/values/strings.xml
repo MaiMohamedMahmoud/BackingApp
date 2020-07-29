@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BackingApp</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="txt_ingredient">Ingredients</string>
+    <string name="txt_Description">Directions</string>
+    <string name="recipe_id">RecipeId</string>
+    <string name="step_detail_id">StepRecipeId</string>
+    <string name="recipeItemPref">recipePreference</string>
+    <string name="recipeListPref">recipeListPreference</string>
+    <string name="recipeObj">recipeObject</string>
+    <string name="recipeObjWidget">recipeObjectWidget</string>
+    <string name="recipeListObj">recipeListObject</string>
+    <string name="direction_img_des">DirectionImage</string>
+    <string name="step_of_direction">Direction Steps</string>
+    <string name="step_number_of_direction">step number</string>
+    <string name="noVideo">there is no video for this step</string>
+    <string name="arg_object">ARG_OBJECT</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="image_widget">Image Widget</string>
+    <string name="serving_txt">Serving:</string>
+    <string name="serving_txt_widget">Serving:</string>
+    <string name="recipe_name_widget">Recipe Name</string>
+    <string name="internet_connection">You Must Connect to internet first, then restart the Application !!</string>
+</resources>
